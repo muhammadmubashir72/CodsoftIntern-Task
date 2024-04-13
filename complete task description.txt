@@ -1,0 +1,16 @@
+CodSoft 
+
+🚀 Exciting Announcement 🚀
+
+I'm thrilled to share that I've successfully completed a remote CodeSoft internship, where I honed my skills in Flutter development! 📱✨ During this enriching experience, I had the opportunity to build two impactful apps:
+
+⿡ *Todo App:* Seamlessly manage your tasks and boost productivity with this intuitive Todo App, developed using Flutter. Check it out [https://lnkd.in/dAPpRdRg].
+
+⿢ *Quote of the Day App:* Get inspired every day with carefully curated quotes delivered straight to your device. Built with Flutter, this app is designed to uplift and motivate. Explore it [https://lnkd.in/dxuiMw6S].
+
+You can find the source code for both apps on my GitHub repository [https://lnkd.in/d5HFe6yp].
+
+I'm immensely grateful for the hands-on experience gained during this internship, and I'm eager to leverage my newfound expertise to tackle future projects. Huge thanks to the CodeSoft team for their guidance and support throughout this journey! 🙌 
+
+#Flutter #AppDevelopment
+ #Remote
